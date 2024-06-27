@@ -2,7 +2,7 @@
   "private": true,
   "name": "My Portfolio",
   "version": "0.1.0",
-  "homepage": "https://github2python.github.io",
+  "homepage": "https://github2python.github.io/portfolio",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
